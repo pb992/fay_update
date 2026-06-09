@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.0/app-release.apk",
-  "notes": "Versione iniziale"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.1/app-release.apk",
+  "notes": "Auto-update + offline robusto"
 }
