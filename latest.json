@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
   "notes": "Versione iniziale FrameAboutYou Desktop con auto-update",
-  "pub_date": "2026-06-15T00:43:00Z",
+  "pub_date": "2026-06-15T00:48:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1ZXaE1Yb29ueC80eGt3RUlKWFlGMm13UkpLUTVGWkJJOUZwV2xnd1JpNVRHcUNwOHM1OEtDUWorQ0swV0xWTHlDb2l6ZU8vYUJHNGRSVVcyL3ExMEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDc3MDA5CWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuMF94NjRfZW4tVVMubXNpClY4TzBGQ1JFSnEzYW9oSmdtZm56ekZ4dkJ3aU1IamQrUTFLWWNPcEhLRk5sZCt5dVpMZTZKTVg2eDdKOC9zTFdEczNrUVVVeThicytvTm1JMTN5dkR3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1hTdEhGRm1nVktVQmZBQUhCYlRrRnFoaHByUlZHZzF4NFYwc0ZiMDFqdHhSVWE5bG4raVlRWXFmV2t4Mmw5T0NYakVtUmFjVkxpTFRvNXlKOVZ5SmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDc3MzgzCWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuMF94NjRfZW4tVVMubXNpClNkV2tOa3BpTzJCTXpuL3NVN0UrNjA1aTdkd2Z6SUNVS0pFd2ZPTXM0VkVMbkdLRStkRklyS2Y2ZDFIOTkycFBEaGNucHA3K3haNW8zdGdnY2dNRkJnPT0K",
       "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.0/FrameAboutYou_0.1.0_x64_en-US.msi"
     }
   }
