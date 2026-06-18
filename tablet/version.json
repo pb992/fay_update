@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.1/app-release.apk",
-  "notes": "Auto-update + offline robusto"
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.2/app-release.apk",
+  "notes": "Verifica E2E auto-update tablet"
 }
