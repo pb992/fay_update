@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.2/app-release.apk",
-  "notes": "Verifica E2E auto-update tablet"
+  "versionCode": 4,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.4/app-release.apk",
+  "notes": "adb-USB automatico, preferiti stabili, freccia back, scroll piu' veloce, fix upload doppio-click"
 }
