@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.4/app-release.apk",
-  "notes": "adb-USB automatico, preferiti stabili, freccia back, scroll piu' veloce, fix upload doppio-click"
+  "versionCode": 5,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.5/app-release.apk",
+  "notes": "Doppia rete: QR e sync reggono con hotspot attaccato, mail restano in coda se manca internet, niente doppie mail"
 }
