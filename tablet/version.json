@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.5/app-release.apk",
-  "notes": "Doppia rete: QR e sync reggono con hotspot attaccato, mail restano in coda se manca internet, niente doppie mail"
+  "versionCode": 6,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.6/app-release.apk",
+  "notes": "Invio mail piu' robusto su rete instabile: niente mail perse, niente doppie mail, ritenta con calma quando manca internet"
 }
