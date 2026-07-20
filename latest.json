@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "QR Accesso Tablet: mostra sempre l'IP di questo PC (prima poteva mostrare quello di un altro PC in rete)",
-  "pub_date": "2026-07-20T16:59:51Z",
+  "version": "0.1.5",
+  "notes": "Eventi cancellati non restano piu' visibili come card fantasma",
+  "pub_date": "2026-07-20T17:15:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML2JseHJ3V1U5TlpvZ2cyNFBqVkRJdVBJbG13bGlWa1EyVDRFczZSYzRWYmdHSW5PQTI0aFFTWG8zeEZYM0ZBNWxwMjZMRU1pY3VYaGJBL21YUDZYZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY2NzUyCWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuNF94NjRfZW4tVVMubXNpCnZZMzFwbzFhTXJJaW9YdzJZQURXdHhieUI0eGY5LzlQT28veDc2YWhsQUlHeDB6SGVvU0haaUVuZEhUSklQdkg3TXJ6OGVnM0VQclhKMmtRUEtEVEJ3PT0K",
-      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.4/FrameAboutYou_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1JTZFBjaTZFMnNCQTVGTFR3MVRUT1hUaWZwK0lDZG01SzBlODJhMjJGamRjS3NmMjdjMkN5cUcwSW9LRHNRSGd2UForV3YweXJEaU1IcURXY1BTVlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY3Njc3CWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuNV94NjRfZW4tVVMubXNpCkhHaWJ4dFFicXdta2c4b2FZN2xRSWE1OThQQ0VUVEtkYjZ2TzA1bHJBRERtUUt5ekYyZ2QwbTl6Q2JsVTkxUmFBRWJWSkdsQjlSVks2ajV4WFlEdEJRPT0K",
+      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.5/FrameAboutYou_0.1.5_x64_en-US.msi"
     }
   }
 }
