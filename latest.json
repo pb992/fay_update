@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Mail dal desktop + modale stato invii, fix sync multi-PC, UI card evento, loading FAY",
-  "pub_date": "2026-07-20T13:00:00Z",
+  "version": "0.1.3",
+  "notes": "Test auto-update: verifica banner e installazione automatica",
+  "pub_date": "2026-07-20T14:04:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1ZyZGZwQlRxYzYxL3l3SEM2aWs2U0JuMEVaYVhsU1NINENrTmVRUHRvNG5DSlBkbGVWNkdjUGlnZ2t0S0JlZWVSdFRzZ0xoalM3eitaTEJUVWNNTXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ1MTc4CWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuMl94NjRfZW4tVVMubXNpCm04cFJHQWNTQzAycE9jQmlsRmc0SnNkY05VemtwQ1ppZUtzdzBva2d2Y3ZSZXpob1hQKzRMWFlDVzB1UDVrcGQ2cENmNWx3UmIzclFOMDNjWFM3Y0NnPT0K",
-      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.2/FrameAboutYou_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1dXQW5tamgzSVQ4UWhzZzI5SEY3OEJ1MkJjSm5YQXVhcWhjU3JIaXJvTEtxY2lHWE45WUQ2YzlQaVEwblNycE9ucFlxTWNwdVk0aFFTczZ5MzI3Q0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTU2MjMwCWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuM194NjRfZW4tVVMubXNpCjRTdFA5ZGx2MUJIVmdmMVJzRTU2VlREdnlYNlJ6djdSQUlUUGFOM3gzOVgzQ2Zkc1gyZEsxd2RkcDU1SlJEOUROeWk5TFIrbEtzMTZGZVA1U2o0T0RBPT0K",
+      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.3/FrameAboutYou_0.1.3_x64_en-US.msi"
     }
   }
 }
