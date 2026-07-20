@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.7/app-release.apk",
-  "notes": "Bottone 'Cambia PC' piu' evidente per collegare il tablet al computer giusto"
+  "versionCode": 8,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/pb992/fay_update/releases/download/tablet-v1.8/app-release.apk",
+  "notes": "I bottoni di conferma ora rispondono sempre + all'avvio l'app mostra la scelta del PC a cui collegarsi"
 }
