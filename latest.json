@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Aggiornamento automatico: verifica E2E pipeline update + offline robusto",
-  "pub_date": "2026-06-18T11:05:00Z",
+  "version": "0.1.2",
+  "notes": "Mail dal desktop + modale stato invii, fix sync multi-PC, UI card evento, loading FAY",
+  "pub_date": "2026-07-20T13:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1hYSTUxZFEzdExJSGJGK1pmb2tkemlyRUtheXhheko3aTVZWkdDelR2dFVxSm8rajY1QXVCVmRTN0tSTDRsRkJhVmJMOFVDYnNZd2hDMEpxckEwOGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzczNDA2CWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuMV94NjRfZW4tVVMubXNpCmFYWHZaclpHZUEzRFMxZURESFo3VXZuU3RYRFBYMlNPL1NkUnpqOTFGZk5FWXVDZm9kWmZFYTQ3MGd2RXhtSE9XLzMvWXdOZHJVYjJnbDQyRDhGa0FBPT0K",
-      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.1/FrameAboutYou_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1ZyZGZwQlRxYzYxL3l3SEM2aWs2U0JuMEVaYVhsU1NINENrTmVRUHRvNG5DSlBkbGVWNkdjUGlnZ2t0S0JlZWVSdFRzZ0xoalM3eitaTEJUVWNNTXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ1MTc4CWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuMl94NjRfZW4tVVMubXNpCm04cFJHQWNTQzAycE9jQmlsRmc0SnNkY05VemtwQ1ppZUtzdzBva2d2Y3ZSZXpob1hQKzRMWFlDVzB1UDVrcGQ2cENmNWx3UmIzclFOMDNjWFM3Y0NnPT0K",
+      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.2/FrameAboutYou_0.1.2_x64_en-US.msi"
     }
   }
 }
