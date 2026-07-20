@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Test auto-update: verifica banner e installazione automatica",
-  "pub_date": "2026-07-20T14:04:19Z",
+  "version": "0.1.4",
+  "notes": "QR Accesso Tablet: mostra sempre l'IP di questo PC (prima poteva mostrare quello di un altro PC in rete)",
+  "pub_date": "2026-07-20T16:59:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML1dXQW5tamgzSVQ4UWhzZzI5SEY3OEJ1MkJjSm5YQXVhcWhjU3JIaXJvTEtxY2lHWE45WUQ2YzlQaVEwblNycE9ucFlxTWNwdVk0aFFTczZ5MzI3Q0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTU2MjMwCWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuM194NjRfZW4tVVMubXNpCjRTdFA5ZGx2MUJIVmdmMVJzRTU2VlREdnlYNlJ6djdSQUlUUGFOM3gzOVgzQ2Zkc1gyZEsxd2RkcDU1SlJEOUROeWk5TFIrbEtzMTZGZVA1U2o0T0RBPT0K",
-      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.3/FrameAboutYou_0.1.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpweVZNa1VML2JseHJ3V1U5TlpvZ2cyNFBqVkRJdVBJbG13bGlWa1EyVDRFczZSYzRWYmdHSW5PQTI0aFFTWG8zeEZYM0ZBNWxwMjZMRU1pY3VYaGJBL21YUDZYZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY2NzUyCWZpbGU6RnJhbWVBYm91dFlvdV8wLjEuNF94NjRfZW4tVVMubXNpCnZZMzFwbzFhTXJJaW9YdzJZQURXdHhieUI0eGY5LzlQT28veDc2YWhsQUlHeDB6SGVvU0haaUVuZEhUSklQdkg3TXJ6OGVnM0VQclhKMmtRUEtEVEJ3PT0K",
+      "url": "https://github.com/pb992/fay_update/releases/download/desktop-v0.1.4/FrameAboutYou_0.1.4_x64_en-US.msi"
     }
   }
 }
